@@ -1,0 +1,2 @@
+# planetarymotion
+Planetary motion based on three Kepler's laws. It explains mathematics, as well as provides demonstration source code and tests for validation of the mathematical approach and source code. A program that can calculate the position of a planet in certain moment of time, knowing the orbital elements of the planet. A program that can calculate ephemeris of a planet - coordinates at Earth sky for obvervations.
